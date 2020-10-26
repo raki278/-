@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\kadai2\bin\Debug\kadai2.exe.config
+C:\Users\student\Desktop\kadai2\bin\Debug\kadai2.exe
+C:\Users\student\Desktop\kadai2\bin\Debug\kadai2.pdb
+C:\Users\student\Desktop\kadai2\obj\Debug\kadai2.exe
+C:\Users\student\Desktop\kadai2\obj\Debug\kadai2.pdb
+C:\Users\student\Desktop\kadai2\obj\Debug\kadai2.csprojAssemblyReference.cache
+E:\kadai2\bin\Debug\kadai2.exe.config
+E:\kadai2\bin\Debug\kadai2.exe
+E:\kadai2\bin\Debug\kadai2.pdb
+E:\kadai2\obj\Debug\kadai2.csprojAssemblyReference.cache
+E:\kadai2\obj\Debug\kadai2.exe
+E:\kadai2\obj\Debug\kadai2.pdb
